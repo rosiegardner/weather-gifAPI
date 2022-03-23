@@ -1,6 +1,6 @@
-# Template Repo
+# Weather Giphy
 
-#### This is a Template for a web environment
+#### This Web Application for Chaining Promises
 
 #### By Rosie Gardner
 
